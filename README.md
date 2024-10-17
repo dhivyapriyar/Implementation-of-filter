@@ -105,7 +105,7 @@ plt.title('Laplacian Operator')
 
 
 ### iv) Using Median Filter
-
+![image](https://github.com/user-attachments/assets/c8e37c45-ab12-4e9d-8e46-484606936d0d)
 
 ### 2. Sharpening Filters
 
